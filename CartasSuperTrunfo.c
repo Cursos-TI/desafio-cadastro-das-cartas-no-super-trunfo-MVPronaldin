@@ -24,7 +24,7 @@ int main() {
         int pontosA01, pontosA02, pontosA03, pontosA04;
 
         printf("Digite o código da primeira cidade do país A (Ex:A01):\n");
-        scanf("%s", codigoA01);
+        scanf("%3s", codigoA01);
         printf("Digite o nome da primeira cidade do país A:\n");
         scanf("%s", nomeA01);
         printf("Digite a população da primeira cidade do país A:\n");
@@ -37,7 +37,7 @@ int main() {
         scanf("%d", &pontosA01);
 
         printf("Digite o código da segunda cidade do país A (Ex:A02):\n");
-        scanf("%s", codigoA02);
+        scanf("%3s", codigoA02);
         printf("Digite o nome da segunda cidade do país A:\n");
         scanf("%s", nomeA02);
         printf("Digite a população da segunda cidade do país A:\n");
@@ -50,7 +50,7 @@ int main() {
         scanf("%d", &pontosA02);
 
         printf("Digite o código da terceira cidade do país A (Ex:A02):\n");
-        scanf("%s", codigoA03);
+        scanf("%3s", codigoA03);
         printf("Digite o nome da terceira cidade do país A:\n");
         scanf("%s", nomeA03);
         printf("Digite a população da terceira cidade do país A:\n");
