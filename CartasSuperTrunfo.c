@@ -489,45 +489,45 @@ int main() {
         scanf("%d", &pontosH04);
 
         printf("\nOs dados das cidades são:\n");
-        printf("Cidade 01 do país A:\nCódigo:%s\n Nome:%s\nPopulação:%d\nÁrea:%f\nPIB:%f\nNúmero de pontos turísticos:%d", codigoA01, nomeA01, populacaoA01, areaA01, pibA01, pontosA01);
-        printf("Cidade 02 do país A:\nCódigo:%s\n Nome:%s\nPopulação:%d\nÁrea:%f\nPIB:%f\nNúmero de pontos turísticos:%d", codigoA02, nomeA02, populacaoA02, areaA02, pibA02, pontosA02);
-        printf("Cidade 03 do país A:\nCódigo:%s\n Nome:%s\nPopulação:%d\nÁrea:%f\nPIB:%f\nNúmero de pontos turísticos:%d", codigoA03, nomeA03, populacaoA03, areaA03, pibA03, pontosA03);
-        printf("Cidade 04 do país A:\nCódigo:%s\n Nome:%s\nPopulação:%d\nÁrea:%f\nPIB:%f\nNúmero de pontos turísticos:%d", codigoA04, nomeA04, populacaoA04, areaA04, pibA04, pontosA04);
+        printf("Cidade 01 do país A:\n  Código:%s\n  Nome:%s\n  População:%d\n  Área:%f\n  PIB:%f\n  Número de pontos turísticos:%d", codigoA01, nomeA01, populacaoA01, areaA01, pibA01, pontosA01);
+        printf("\nCidade 02 do país A:\n  Código:%s\n  Nome:%s\n  População:%d\n  Área:%f\n  PIB:%f\n  Número de pontos turísticos:%d", codigoA02, nomeA02, populacaoA02, areaA02, pibA02, pontosA02);
+        printf("\nCidade 03 do país A:\n  Código:%s\n  Nome:%s\n  População:%d\n  Área:%f\n  PIB:%f\n  Número de pontos turísticos:%d", codigoA03, nomeA03, populacaoA03, areaA03, pibA03, pontosA03);
+        printf("\nCidade 04 do país A:\n  Código:%s\n  Nome:%s\n  População:%d\n  Área:%f\n  PIB:%f\n  Número de pontos turísticos:%d", codigoA04, nomeA04, populacaoA04, areaA04, pibA04, pontosA04);
         //Printf das cidades do país A acima
-        printf("Cidade 01 do país B:\nCódigo:%s\n Nome:%s\nPopulação:%d\nÁrea:%f\nPIB:%f\nNúmero de pontos turísticos:%d", codigoB01, nomeB01, populacaoB01, areaB01, pibB01, pontosB01);
-        printf("Cidade 02 do país B:\nCódigo:%s\n Nome:%s\nPopulação:%d\nÁrea:%f\nPIB:%f\nNúmero de pontos turísticos:%d", codigoB02, nomeB02, populacaoB02, areaB02, pibB02, pontosB02);
-        printf("Cidade 03 do país B:\nCódigo:%s\n Nome:%s\nPopulação:%d\nÁrea:%f\nPIB:%f\nNúmero de pontos turísticos:%d", codigoB03, nomeB03, populacaoB03, areaB03, pibB03, pontosB03);
-        printf("Cidade 04 do país B:\nCódigo:%s\n Nome:%s\nPopulação:%d\nÁrea:%f\nPIB:%f\nNúmero de pontos turísticos:%d", codigoB04, nomeB04, populacaoB04, areaB04, pibB04, pontosB04);
+        printf("\nCidade 01 do país B:\n  Código:%s\n  Nome:%s\n  População:%d\n  Área:%f\n  PIB:%f\n  Número de pontos turísticos:%d", codigoB01, nomeB01, populacaoB01, areaB01, pibB01, pontosB01);
+        printf("\nCidade 02 do país B:\n  Código:%s\n  Nome:%s\n  População:%d\n  Área:%f\n  PIB:%f\n  Número de pontos turísticos:%d", codigoB02, nomeB02, populacaoB02, areaB02, pibB02, pontosB02);
+        printf("\nCidade 03 do país B:\n  Código:%s\n  Nome:%s\n  População:%d\n  Área:%f\n  PIB:%f\n  Número de pontos turísticos:%d", codigoB03, nomeB03, populacaoB03, areaB03, pibB03, pontosB03);
+        printf("\nCidade 04 do país B:\n  Código:%s\n  Nome:%s\n  População:%d\n  Área:%f\n  PIB:%f\n  Número de pontos turísticos:%d", codigoB04, nomeB04, populacaoB04, areaB04, pibB04, pontosB04);
         //Printf das cidades do país B acima
-        printf("Cidade 01 do país C:\nCódigo:%s\n Nome:%s\nPopulação:%d\nÁrea:%f\nPIB:%f\nNúmero de pontos turísticos:%d", codigoC01, nomeC01, populacaoC01, areaC01, pibC01, pontosC01);
-        printf("Cidade 02 do país C:\nCódigo:%s\n Nome:%s\nPopulação:%d\nÁrea:%f\nPIB:%f\nNúmero de pontos turísticos:%d", codigoC02, nomeC02, populacaoC02, areaC02, pibC02, pontosC02);
-        printf("Cidade 03 do país C:\nCódigo:%s\n Nome:%s\nPopulação:%d\nÁrea:%f\nPIB:%f\nNúmero de pontos turísticos:%d", codigoC03, nomeC03, populacaoC03, areaC03, pibC03, pontosC03);
-        printf("Cidade 04 do país C:\nCódigo:%s\n Nome:%s\nPopulação:%d\nÁrea:%f\nPIB:%f\nNúmero de pontos turísticos:%d", codigoC04, nomeC04, populacaoC04, areaC04, pibC04, pontosC04);
+        printf("\nCidade 01 do país C:\n  Código:%s\n  Nome:%s\n  População:%d\n  Área:%f\n  PIB:%f\n  Número de pontos turísticos:%d", codigoC01, nomeC01, populacaoC01, areaC01, pibC01, pontosC01);
+        printf("\nCidade 02 do país C:\n  Código:%s\n  Nome:%s\n  População:%d\n  Área:%f\n  PIB:%f\n  Número de pontos turísticos:%d", codigoC02, nomeC02, populacaoC02, areaC02, pibC02, pontosC02);
+        printf("\nCidade 03 do país C:\n  Código:%s\n  Nome:%s\n  População:%d\n  Área:%f\n  PIB:%f\n  Número de pontos turísticos:%d", codigoC03, nomeC03, populacaoC03, areaC03, pibC03, pontosC03);
+        printf("\nCidade 04 do país C:\n  Código:%s\n  Nome:%s\n  População:%d\n  Área:%f\n  PIB:%f\n  Número de pontos turísticos:%d", codigoC04, nomeC04, populacaoC04, areaC04, pibC04, pontosC04);
         //Printf das cidades do país C acima
-        printf("Cidade 01 do país D:\nCódigo:%s\n Nome:%s\nPopulação:%d\nÁrea:%f\nPIB:%f\nNúmero de pontos turísticos:%d", codigoD01, nomeD02, populacaoD01, areaD01, pibD01, pontosD01);
-        printf("Cidade 02 do país D:\nCódigo:%s\n Nome:%s\nPopulação:%d\nÁrea:%f\nPIB:%f\nNúmero de pontos turísticos:%d", codigoD02, nomeD02, populacaoD02, areaD02, pibD02, pontosD02);
-        printf("Cidade 03 do país D:\nCódigo:%s\n Nome:%s\nPopulação:%d\nÁrea:%f\nPIB:%f\nNúmero de pontos turísticos:%d", codigoD03, nomeD03, populacaoD03, areaD03, pibD03, pontosD03);
-        printf("Cidade 04 do país D:\nCódigo:%s\n Nome:%s\nPopulação:%d\nÁrea:%f\nPIB:%f\nNúmero de pontos turísticos:%d", codigoD04, nomeD04, populacaoD04, areaD04, pibD04, pontosD04);
+        printf("\nCidade 01 do país D:\n  Código:%s\n  Nome:%s\n  População:%d\n  Área:%f\n  PIB:%f\n  Número de pontos turísticos:%d", codigoD01, nomeD02, populacaoD01, areaD01, pibD01, pontosD01);
+        printf("\nCidade 02 do país D:\n  Código:%s\n  Nome:%s\n  População:%d\n  Área:%f\n  PIB:%f\n  Número de pontos turísticos:%d", codigoD02, nomeD02, populacaoD02, areaD02, pibD02, pontosD02);
+        printf("\nCidade 03 do país D:\n  Código:%s\n  Nome:%s\n  População:%d\n  Área:%f\n  PIB:%f\n  Número de pontos turísticos:%d", codigoD03, nomeD03, populacaoD03, areaD03, pibD03, pontosD03);
+        printf("\nCidade 04 do país D:\n  Código:%s\n  Nome:%s\n  População:%d\n  Área:%f\n  PIB:%f\n  Número de pontos turísticos:%d", codigoD04, nomeD04, populacaoD04, areaD04, pibD04, pontosD04);
         //Printf das cidades do país D acima
-        printf("Cidade 01 do país E:\nCódigo:%s\n Nome:%s\nPopulação:%d\nÁrea:%f\nPIB:%f\nNúmero de pontos turísticos:%d", codigoE01, nomeE02, populacaoE01, areaE01, pibE01, pontosE01);
-        printf("Cidade 02 do país E:\nCódigo:%s\n Nome:%s\nPopulação:%d\nÁrea:%f\nPIB:%f\nNúmero de pontos turísticos:%d", codigoE02, nomeE02, populacaoE02, areaE02, pibE02, pontosE02);
-        printf("Cidade 03 do país E:\nCódigo:%s\n Nome:%s\nPopulação:%d\nÁrea:%f\nPIB:%f\nNúmero de pontos turísticos:%d", codigoE03, nomeE03, populacaoE03, areaE03, pibE03, pontosE03);
-        printf("Cidade 04 do país E:\nCódigo:%s\n Nome:%s\nPopulação:%d\nÁrea:%f\nPIB:%f\nNúmero de pontos turísticos:%d", codigoE04, nomeE04, populacaoE04, areaE04, pibE04, pontosE04);
+        printf("\nCidade 01 do país E:\n  Código:%s\n  Nome:%s\n  População:%d\n  Área:%f\n  PIB:%f\n  Número de pontos turísticos:%d", codigoE01, nomeE02, populacaoE01, areaE01, pibE01, pontosE01);
+        printf("\nCidade 02 do país E:\n  Código:%s\n  Nome:%s\n  População:%d\n  Área:%f\n  PIB:%f\n  Número de pontos turísticos:%d", codigoE02, nomeE02, populacaoE02, areaE02, pibE02, pontosE02);
+        printf("\nCidade 03 do país E:\n  Código:%s\n  Nome:%s\n  População:%d\n  Área:%f\n  PIB:%f\n  Número de pontos turísticos:%d", codigoE03, nomeE03, populacaoE03, areaE03, pibE03, pontosE03);
+        printf("\nCidade 04 do país E:\n  Código:%s\n  Nome:%s\n  População:%d\n  Área:%f\n  PIB:%f\n  Número de pontos turísticos:%d", codigoE04, nomeE04, populacaoE04, areaE04, pibE04, pontosE04);
         //Printf das cidades do país E acima
-        printf("Cidade 01 do país F:\nCódigo:%s\n Nome:%s\nPopulação:%d\nÁrea:%f\nPIB:%f\nNúmero de pontos turísticos:%d", codigoF01, nomeF02, populacaoF01, areaF01, pibF01, pontosF01);
-        printf("Cidade 02 do país F:\nCódigo:%s\n Nome:%s\nPopulação:%d\nÁrea:%f\nPIB:%f\nNúmero de pontos turísticos:%d", codigoF02, nomeF02, populacaoF02, areaF02, pibF02, pontosF02);
-        printf("Cidade 03 do país F:\nCódigo:%s\n Nome:%s\nPopulação:%d\nÁrea:%f\nPIB:%f\nNúmero de pontos turísticos:%d", codigoF03, nomeF03, populacaoF03, areaF03, pibF03, pontosF03);
-        printf("Cidade 04 do país F:\nCódigo:%s\n Nome:%s\nPopulação:%d\nÁrea:%f\nPIB:%f\nNúmero de pontos turísticos:%d", codigoF04, nomeF04, populacaoF04, areaF04, pibF04, pontosF04);
+        printf("\nidade 01 do país F:\n  Código:%s\n  Nome:%s\n  População:%d\n  Área:%f\n  PIB:%f\n  Número de pontos turísticos:%d", codigoF01, nomeF02, populacaoF01, areaF01, pibF01, pontosF01);
+        printf("\nCidade 02 do país F:\n  Código:%s\n  Nome:%s\n  População:%d\n  Área:%f\n  PIB:%f\n  Número de pontos turísticos:%d", codigoF02, nomeF02, populacaoF02, areaF02, pibF02, pontosF02);
+        printf("\nCidade 03 do país F:\n  Código:%s\n  Nome:%s\n  População:%d\n  Área:%f\n  PIB:%f\n  Número de pontos turísticos:%d", codigoF03, nomeF03, populacaoF03, areaF03, pibF03, pontosF03);
+        printf("\nCidade 04 do país F:\n  Código:%s\n  Nome:%s\n  População:%d\n  Área:%f\n  PIB:%f\n  Número de pontos turísticos:%d", codigoF04, nomeF04, populacaoF04, areaF04, pibF04, pontosF04);
         //Printf das cidades do país F acima
-        printf("Cidade 01 do país G:\nCódigo:%s\n Nome:%s\nPopulação:%d\nÁrea:%f\nPIB:%f\nNúmero de pontos turísticos:%d", codigoG01, nomeG02, populacaoG01, areaG01, pibG01, pontosG01);
-        printf("Cidade 02 do país G:\nCódigo:%s\n Nome:%s\nPopulação:%d\nÁrea:%f\nPIB:%f\nNúmero de pontos turísticos:%d", codigoG02, nomeG02, populacaoG02, areaG02, pibG02, pontosG02);
-        printf("Cidade 03 do país G:\nCódigo:%s\n Nome:%s\nPopulação:%d\nÁrea:%f\nPIB:%f\nNúmero de pontos turísticos:%d", codigoG03, nomeG03, populacaoG03, areaG03, pibG03, pontosG03);
-        printf("Cidade 04 do país G:\nCódigo:%s\n Nome:%s\nPopulação:%d\nÁrea:%f\nPIB:%f\nNúmero de pontos turísticos:%d", codigoG04, nomeG04, populacaoG04, areaG04, pibG04, pontosG04);
+        printf("\nCidade 01 do país G:\n  Código:%s\n  Nome:%s\n  População:%d\n  Área:%f\n  PIB:%f\n  Número de pontos turísticos:%d", codigoG01, nomeG02, populacaoG01, areaG01, pibG01, pontosG01);
+        printf("\nCidade 02 do país G:\n  Código:%s\n  Nome:%s\n  População:%d\n  Área:%f\n  PIB:%f\n  Número de pontos turísticos:%d", codigoG02, nomeG02, populacaoG02, areaG02, pibG02, pontosG02);
+        printf("\nCidade 03 do país G:\n  Código:%s\n  Nome:%s\n  População:%d\n  Área:%f\n  PIB:%f\n  Número de pontos turísticos:%d", codigoG03, nomeG03, populacaoG03, areaG03, pibG03, pontosG03);
+        printf("\nCidade 04 do país G:\n  Código:%s\n  Nome:%s\n  População:%d\n  Área:%f\n  PIB:%f\n  Número de pontos turísticos:%d", codigoG04, nomeG04, populacaoG04, areaG04, pibG04, pontosG04);
         //Printf das cidades do país G acima
-        printf("Cidade 01 do país H:\nCódigo:%s\n Nome:%s\nPopulação:%d\nÁrea:%f\nPIB:%f\nNúmero de pontos turísticos:%d", codigoH01, nomeH02, populacaoH01, areaH01, pibH01, pontosH01);
-        printf("Cidade 02 do país H:\nCódigo:%s\n Nome:%s\nPopulação:%d\nÁrea:%f\nPIB:%f\nNúmero de pontos turísticos:%d", codigoH02, nomeH02, populacaoH02, areaH02, pibH02, pontosH02);
-        printf("Cidade 03 do país H:\nCódigo:%s\n Nome:%s\nPopulação:%d\nÁrea:%f\nPIB:%f\nNúmero de pontos turísticos:%d", codigoH03, nomeH03, populacaoH03, areaH03, pibH03, pontosH03);
-        printf("Cidade 04 do país H:\nCódigo:%s\n Nome:%s\nPopulação:%d\nÁrea:%f\nPIB:%f\nNúmero de pontos turísticos:%d", codigoH04, nomeH04, populacaoH04, areaH04, pibH04, pontosH04);
+        printf("\nCidade 01 do país H:\n  Código:%s\n  Nome:%s\n  População:%d\n  Área:%f\n  PIB:%f\n  Número de pontos turísticos:%d", codigoH01, nomeH02, populacaoH01, areaH01, pibH01, pontosH01);
+        printf("\nCidade 02 do país H:\n  Código:%s\n  Nome:%s\n  População:%d\n  Área:%f\n  PIB:%f\n  Número de pontos turísticos:%d", codigoH02, nomeH02, populacaoH02, areaH02, pibH02, pontosH02);
+        printf("\nCidade 03 do país H:\n  Código:%s\n  Nome:%s\n  População:%d\n  Área:%f\n  PIB:%f\n  Número de pontos turísticos:%d", codigoH03, nomeH03, populacaoH03, areaH03, pibH03, pontosH03);
+        printf("\nCidade 04 do país H:\n  Código:%s\n  Nome:%s\n  População:%d\n  Área:%f\n  PIB:%f\n  Número de pontos turísticos:%d", codigoH04, nomeH04, populacaoH04, areaH04, pibH04, pontosH04);
         //Printf das cidades do país H acima
   return 0;
 }
