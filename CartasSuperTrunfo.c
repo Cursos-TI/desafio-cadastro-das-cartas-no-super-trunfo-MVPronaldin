@@ -25,6 +25,7 @@ int main() {
         int pontosA01, pontosA02, pontosA03, pontosA04;
         float densidadeA01, densidadeA02, densidadeA03, densidadeA04;
         float percaptaA01, percaptaA02, percaptaA03, percaptaA04;
+        float superpoderA01, superpoderA02, superpoderA03, superpoderA04;
 
         printf("Digite o código da primeira cidade do país A (Ex:A02):\n");
         scanf("%3s", codigoA01);
@@ -96,6 +97,7 @@ int main() {
         int pontosB01, pontosB02, pontosB03, pontosB04;
         float densidadeB01, densidadeB02, densidadeB03, densidadeB04;
         float percaptaB01, percaptaB02, percaptaB03, percaptaB04;
+        float superpoderB01, superpoderB02, superpoderB03, superpoderB04;
 
         printf("\nDigite o código da primeira cidade do país B (Ex:A02):\n");
         scanf("%3s", codigoB01);
@@ -167,6 +169,7 @@ int main() {
         int pontosC01, pontosC02, pontosC03, pontosC04;
         float densidadeC01, densidadeC02, densidadeC03, densidadeC04;
         float percaptaC01, percaptaC02, percaptaC03, percaptaC04;
+        float superpoderC01, superpoderC02, superpoderC03, superpoderC04;
 
         printf("\nDigite o código da primeira cidade do país C (Ex:A02):\n");
         scanf("%3s", codigoC01);
@@ -238,6 +241,7 @@ int main() {
         int pontosD01, pontosD02, pontosD03, pontosD04;
         float densidadeD01, densidadeD02, densidadeD03, densidadeD04;
         float percaptaD01, percaptaD02, percaptaD03, percaptaD04;
+        float superpoderD01, superpoderD02, superpoderD03, superpoderD04;
 
         printf("\nDigite o código da primeira cidade do país D (Ex:A02):\n");
         scanf("%3s", codigoD01);
@@ -309,6 +313,7 @@ int main() {
         int pontosE01, pontosE02, pontosE03, pontosE04;
         float densidadeE01, densidadeE02, densidadeE03, densidadeE04;
         float percaptaE01, percaptaE02, percaptaE03, percaptaE04;
+        float superpoderE01, superpoderE02, superpoderE03, superpoderE04;
 
         printf("\nDigite o código da primeira cidade do país E (Ex:A02):\n");
         scanf("%3s", codigoE01);
@@ -380,6 +385,7 @@ int main() {
         int pontosF01, pontosF02, pontosF03, pontosF04;
         float densidadeF01, densidadeF02, densidadeF03, densidadeF04;
         float percaptaF01, percaptaF02, percaptaF03, percaptaF04;
+        float superpoderF01, superpoderF02, superpoderF03, superpoderF04;
 
         printf("\nDigite o código da primeira cidade do país F (Ex:A02):\n");
         scanf("%3s", codigoF01);
@@ -451,6 +457,7 @@ int main() {
         int pontosG01, pontosG02, pontosG03, pontosG04;
         float densidadeG01, densidadeG02, densidadeG03, densidadeG04;
         float percaptaG01, percaptaG02, percaptaG03, percaptaG04;
+        float superpoderG01, superpoderG02, superpoderG03, superpoderG04;
 
         printf("\nDigite o código da primeira cidade do país G (Ex:A02):\n");
         scanf("%3s", codigoG01);
@@ -522,6 +529,7 @@ int main() {
         int pontosH01, pontosH02, pontosH03, pontosH04;
         float densidadeH01, densidadeH02, densidadeH03, densidadeH04;
         float percaptaH01, percaptaH02, percaptaH03, percaptaH04;
+        float superpoderH01, superpoderH02, superpoderH03, superpoderH04;
 
         printf("\nDigite o código da primeira cidade do país H (Ex:A02):\n");
         scanf("%3s", codigoH01);
@@ -626,5 +634,22 @@ int main() {
         printf("\n\nCidade 03 do país H:\n  Código:%s\n  Nome:%s\n  População:%d\n  Área:%f\n  PIB:%f\n  Número de pontos turísticos:%d\n  Densidade populacional:%.2f\n  PIB per capta: %.2f", codigoH03, nomeH03, populacaoH03, areaH03, pibH03, pontosH03, densidadeH04, percaptaH03);
         printf("\n\nCidade 04 do país H:\n  Código:%s\n  Nome:%s\n  População:%d\n  Área:%f\n  PIB:%f\n  Número de pontos turísticos:%d\n  Densidade populacional:%.2f\n  PIB per capta: %.2f", codigoH04, nomeH04, populacaoH04, areaH04, pibH04, pontosH04, densidadeH04, percaptaH04);
         //Printf das cidades do país H acima
+        printf("\n\nVamos às comparações!\n");
+
+        char nomec1, nomec2;
+        int populacaoc1, populacaoc2;
+        float areac1, areac2, pibc1, pibc2;
+        int pontosc1, pontosc2;
+        float densidadec1, densidadec2, percaptac1, percaptac2;
+
+        printf("\nDigite os dados da primeira carta à ser comparada:");
+        printf("\n  Nome:%s\n  População:%d\n  Área:%f  PIB:%f\n  Número de pontos turísticos:%d\n  Densidade populacional:%.2f\n  PIB per capta:%.2f", nomec1, populacaoc1, areac1, pibc1, pontosc1, densidadec1, percaptac1);
+        printf("\n\nDigite os dados da segunda carta à ser comparada:");
+        printf("\n  Nome:%s\n  População:%d\n  Área:%f  PIB:%f\n  Número de pontos turísticos:%d\n  Densidade populacional:%.2f\n  PIB per capta:%.2f", nomec2, populacaoc2, areac2, pibc2, pontosc2, densidadec2, percaptac2);
+
+
+        printf("Calculando...")
+
+
   return 0;
 }
