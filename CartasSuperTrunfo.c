@@ -634,22 +634,5 @@ int main() {
         printf("\n\nCidade 03 do país H:\n  Código:%s\n  Nome:%s\n  População:%d\n  Área:%f\n  PIB:%f\n  Número de pontos turísticos:%d\n  Densidade populacional:%.2f\n  PIB per capta: %.2f", codigoH03, nomeH03, populacaoH03, areaH03, pibH03, pontosH03, densidadeH04, percaptaH03);
         printf("\n\nCidade 04 do país H:\n  Código:%s\n  Nome:%s\n  População:%d\n  Área:%f\n  PIB:%f\n  Número de pontos turísticos:%d\n  Densidade populacional:%.2f\n  PIB per capta: %.2f", codigoH04, nomeH04, populacaoH04, areaH04, pibH04, pontosH04, densidadeH04, percaptaH04);
         //Printf das cidades do país H acima
-        printf("\n\nVamos às comparações!\n");
-
-        char nomec1, nomec2;
-        int populacaoc1, populacaoc2;
-        float areac1, areac2, pibc1, pibc2;
-        int pontosc1, pontosc2;
-        float densidadec1, densidadec2, percaptac1, percaptac2;
-
-        printf("\nDigite os dados da primeira carta à ser comparada:");
-        printf("\n  Nome:%s\n  População:%d\n  Área:%f  PIB:%f\n  Número de pontos turísticos:%d\n  Densidade populacional:%.2f\n  PIB per capta:%.2f", nomec1, populacaoc1, areac1, pibc1, pontosc1, densidadec1, percaptac1);
-        printf("\n\nDigite os dados da segunda carta à ser comparada:");
-        printf("\n  Nome:%s\n  População:%d\n  Área:%f  PIB:%f\n  Número de pontos turísticos:%d\n  Densidade populacional:%.2f\n  PIB per capta:%.2f", nomec2, populacaoc2, areac2, pibc2, pontosc2, densidadec2, percaptac2);
-
-
-        printf("Calculando...")
-
-
-  return 0;
+        return 0;
 }
